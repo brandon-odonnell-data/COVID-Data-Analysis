@@ -1,6 +1,4 @@
 # COVID-Data-Analysis
-This project uses real COVID-19 data from countries across the world, provided by Our World in Data.
-
 Tools and Languages: SQL, Excel
 
 Description and Intent: This project uses real COVID-19 data from countries across the world, provided by Our World in Data. Beginning with some initial review and preparation of figures stored in Excel spreadsheets, I imported the data into SQL Server and went through a general exploration of the data at country and global levels. SQL techniques employed included Aggregate Functions, Converting Data Types, Joins, CTEs, Temp Tables, Windows Functions and Creating Views.
